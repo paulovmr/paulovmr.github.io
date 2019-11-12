@@ -43,6 +43,10 @@
   padding: 0.15em 0.35em;
 }
 
+.kogito--editor__toolbar-section h3:hover {
+  background-color: var(--pf-global--BackgroundColor--400); 
+}
+
 .kogito--editor__toolbar-section button,
 .kogito--editor__toolbar-section input {
   outline: none;
